@@ -18,4 +18,4 @@ for(let i = 0; i < numbers.length; i++) {
     }
 }
 
-console.log(containsZero ? "Tablica zawiera zero" : "Tablica nei zawiera zero")
+console.log(containsZero ? "Tablica zawiera zero" : "Tablica nie zawiera zera")
